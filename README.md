@@ -1,10 +1,23 @@
-# ☕ JAVA-LEARN
-```markdown
-![Java](https://img.shields.io/badge/Java-17-blue?style=flat-square&logo=java)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-```
+<h1 align="center">💻 Java learn </h1>
+<p align="center">Uma experiência bancária minimalista diretamente no terminal.</p>
 
-Welcome to **JAVA-LEARN**, a beginner-friendly Java project structured to help you master the fundamentals and core concepts of Java, especially Object-Oriented Programming (OOP).
+<p align="center">
+  <a href="https://github.com/sponsors/carlos0ff">
+    <img src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor">
+  </a>
+  <a href="https://github.com/carlos0ff/java-learn/stargazers">
+    <img src="https://img.shields.io/github/stars/carlos0ff/java-learn?style=for-the-badge&color=yellow" alt="Stars">
+  </a>
+  <a href="https://github.com/carlos0ff/java-learn/network/members">
+    <img src="https://img.shields.io/github/forks/carlos0ff/java-learn?style=for-the-badge&color=blue" alt="Forks">
+  </a>
+  <a href="https://github.com/carlos0ff/java-learn/issues">
+    <img src="https://img.shields.io/github/issues/carlos0ff/java-learn?style=for-the-badge&color=green" alt="Issues">
+  </a>
+  <a href="https://github.com/carlos0ff/java-learn/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" alt="License">
+  </a>
+</p>
 
 ---
 
