@@ -2,9 +2,7 @@
 <p align="center">Uma experiência bancária minimalista diretamente no terminal.</p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/carlos0ff">
-    <img src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor">
-  </a>
+ 
   <a href="https://github.com/carlos0ff/java-learn/stargazers">
     <img src="https://img.shields.io/github/stars/carlos0ff/java-learn?style=for-the-badge&color=yellow" alt="Stars">
   </a>
