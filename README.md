@@ -1,8 +1,7 @@
-<h1 align="center">💻 Java learn </h1>
-<p align="center">Uma experiência bancária minimalista diretamente no terminal.</p>
+<h1 align="center">☕ Java Learn</h1>
+<p align="center">A study-oriented Java repository — from fundamentals to advanced topics, all in one place.</p>
 
 <p align="center">
- 
   <a href="https://github.com/carlos0ff/java-learn/stargazers">
     <img src="https://img.shields.io/github/stars/carlos0ff/java-learn?style=for-the-badge&color=yellow" alt="Stars">
   </a>
@@ -16,6 +15,16 @@
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" alt="License">
   </a>
 </p>
+
+---
+
+## 📁 Folder Overview
+
+- `basics/`: Java fundamentals like variables, operators, control flow.
+- `collections/`: Examples with Java collections (ArrayList, etc.).
+- `oop/`: Core object-oriented programming concepts.
+- `threads/`: Multithreading and concurrency.
+- `database/`: Future DB interaction examples.
 
 ---
 
@@ -33,16 +42,6 @@ Main.java                # Entry point to run demos
 ```
 --- 
 
-## 📁 Folder Overview
-
-- `basics/`: Java fundamentals like variables, operators, control flow.
-- `collections/`: Examples with Java collections (ArrayList, etc.).
-- `oop/`: Core object-oriented programming concepts.
-- `threads/`: Multithreading and concurrency.
-- `database/`: Future DB interaction examples.
-
----
-
 ## 📦 Packages and Descriptions
 
 ### ✅ `basics/`
@@ -53,12 +52,12 @@ Main.java                # Entry point to run demos
 - `Methods.java` – Defining and using methods.
 
 ### 🧱 `collections/`
-- ArrayListExample.java – Using dynamic arrays with ArrayList.
-- HashMapExample.java – Key-value storage with HashMap.
-- LinkedListExample.java – Doubly linked list implementation.
-- SetExample.java – Working with HashSet and uniqueness.
-- IteratorExample.java – Iterating through collections.
-- CollectionsUtility.java – Using Collections class (sort, reverse, shuffle).
+- `ArrayList.java` – Using dynamic arrays with ArrayList.
+- `HashMap.java` – Key-value storage with HashMap.
+- `LinkedList.java` – Doubly linked list implementation.
+- `Set.java` – Working with HashSet and uniqueness.
+- `Iterator.java` – Iterating through collections.
+- `CollectionsUtility.java` – Using Collections class (sort, reverse, shuffle).
 
 ### 🔐 `oop/`
 - `Person.java` – A base class to demonstrate inheritance.
@@ -69,30 +68,37 @@ Main.java                # Entry point to run demos
 - `InnerInterfaces.java` – Working with interfaces.
 
 ### 🔄 `threads/`
-- SimpleThread.java – Creating threads by extending Thread.
-- RunnableExample.java – Implementing the Runnable interface.
-- ThreadSleep.java – Delays and timing using Thread.sleep().
-- SynchronizationExample.java – Handling race conditions with synchronized.
-- ThreadPoolExample.java – Managing threads with ExecutorService.
+- `SimpleThread.java` – Creating threads by extending Thread.
+- `Runnable.java` – Implementing the Runnable interface.
+- `ThreadSleep.java` – Delays and timing using Thread.sleep().
+- `Synchronization.java` – Handling race conditions with synchronized.
+- `ThreadPool.java` – Managing threads with ExecutorService.
 
 ### 🗃️ `database/`
-- JDBCConnection.java – Connecting to a MySQL database using JDBC.
-- InsertDataExample.java – Inserting records into a database.
-- ReadDataExample.java – Retrieving and displaying data from a table.
-- PreparedStatementExample.java – Using prepared statements to avoid SQL injection.
-- UpdateAndDeleteExample.java – Performing update and delete operations.
-- DatabaseUtils.java – Utility class for managing connections and resources.
+- `JDBCConnection.java` – Connecting to a MySQL database using JDBC.
+- `InsertData.java` – Inserting records into a database.
+- `ReadData.java` – Retrieving and displaying data from a table.
+- `PreparedStatement.java` – Using prepared statements to avoid SQL injection.
+- `UpdateAndDelete.java` – Performing update and delete operations.
+- `DatabaseUtils.java` – Utility class for managing connections and resources.
 
 ---
 
-📌 TODO
-Add examples using HashMap and Set
-Add file handling and exceptions
-Add database CRUD example with JDBC
-Add threading examples
-Add basic GUI with JavaFX or Swing
+## 📌 TODO
+
+- [x] Organize project folder structure
+- [x] Add README with project overview
+- [x] Implement basic Java examples (Hello World, Variables, Methods)
+- [x] Create OOP examples (Encapsulation, Inheritance, Polymorphism)
+- [ ] Add abstract classes and interfaces examples
+- [ ] Add collection examples (HashMap, Set)
+- [ ] Add file handling and exception examples
+- [ ] Add database CRUD example with JDBC
+- [ ] Add threading and concurrency examples
+- [ ] Add GUI example (Swing or JavaFX)
 
 ---
+
 ## 🎯 How to Run
 
 Compile and run using terminal or your IDE (e.g., VS Code):
@@ -101,6 +107,19 @@ Compile and run using terminal or your IDE (e.g., VS Code):
 javac src/br/com/javalearn/Main.java
 java br.com.javalearn.Main
 ```
+---
+
+## 📚 Learning Topics Covered
+- Java Syntax & Basics
+- Control Flow
+- Methods
+- Data Types & Operators
+- Object-Oriented Programming (OOP)
+- Collections (ArrayList, etc.)
+- Threads (coming soon)
+- Database interaction (coming soon)
+
+---
 
 ## 🚀 Requirements
 - Java JDK 8 or higher
@@ -113,11 +132,9 @@ java br.com.javalearn.Main
 Contributions are welcome! If you'd like to add examples, improve the structure, or translate content — feel free to fork this repo and open a pull request.
 
 ## 👨‍💻 Author
-Created by ()[] – feel free to reach out!
+Created by (Carlos)[https://github.com/carlos0ff] – feel free to reach out!
 
 ## 📄 License
 This project is licensed under the MIT License.
 
----
 
-Let me know if you want this version tailored to a GitHub Pages setup, or to auto-generate it from folder structure.

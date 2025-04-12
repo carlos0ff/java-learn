@@ -1,5 +1,5 @@
 package br.com.javalearn.threads;
 
-public class ExecutorServiceExample {
+public class Runnable {
     
 }

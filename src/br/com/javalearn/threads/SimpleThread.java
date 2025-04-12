@@ -1,5 +1,5 @@
 package br.com.javalearn.threads;
 
-public class RunnableExample {
+public class SimpleThread {
     
 }

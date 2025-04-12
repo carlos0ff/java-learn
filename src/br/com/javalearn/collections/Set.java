@@ -1,5 +1,5 @@
 package br.com.javalearn.collections;
 
-public class ArrayListExample {
+public class Set {
     
 }

@@ -1,5 +1,5 @@
 package br.com.javalearn.threads;
 
-public class ThreadExample {
+public class ThreadSleep {
     
 }
