@@ -2,6 +2,7 @@
 ```markdown
 ![Java](https://img.shields.io/badge/Java-17-blue?style=flat-square&logo=java)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+```
 
 Welcome to **JAVA-LEARN**, a beginner-friendly Java project structured to help you master the fundamentals and core concepts of Java, especially Object-Oriented Programming (OOP).
 
@@ -73,6 +74,14 @@ Main.java                # Entry point to run demos
 
 ---
 
+📌 TODO
+Add examples using HashMap and Set
+Add file handling and exceptions
+Add database CRUD example with JDBC
+Add threading examples
+Add basic GUI with JavaFX or Swing
+
+---
 ## 🎯 How to Run
 
 Compile and run using terminal or your IDE (e.g., VS Code):
