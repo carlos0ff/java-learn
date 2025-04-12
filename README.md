@@ -132,7 +132,7 @@ java br.com.javalearn.Main
 Contributions are welcome! If you'd like to add examples, improve the structure, or translate content — feel free to fork this repo and open a pull request.
 
 ## 👨‍💻 Author
-Created by (Carlos)[https://github.com/carlos0ff] – feel free to reach out!
+Created by [Carlos](https://github.com/carlos0ff) – feel free to reach out!
 
 ## 📄 License
 This project is licensed under the MIT License.
