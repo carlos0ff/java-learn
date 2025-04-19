@@ -33,12 +33,43 @@
 ```bash
 src/
 └── br/com/javalearn/
-    ├── basics/           # Java fundamentals (variables, methods, operators)
-    ├── collections/      # Collection framework examples (ArrayList, etc.)
-    ├── database/         # Future database interaction examples
-    ├── oop/              # Core OOP principles (inheritance, polymorphism, etc.)
-    └── threads/          # Multithreading examples
-Main.java                # Entry point to run demos
+    ├── basics/                # Java fundamentals (variables, methods, operators)
+    │   ├── HelloWorld.java
+    │   ├── ControlFlow.java
+    │   ├── VariablesAndDataTypes.java
+    │   ├── Operators.java
+    │   └── Methods.java
+    ├── collections/            # Collection framework examples (ArrayList, etc.)
+    │   ├── ArrayList.java
+    │   ├── HashMap.java
+    │   ├── LinkedList.java
+    │   ├── Set.java
+    │   ├── Iterator.java
+    │   └── CollectionsUtility.java
+    ├── oop/                    # Core OOP principles (inheritance, polymorphism, etc.)          
+    │   ├── Person.java
+    │   ├── Encapsulation.java
+    │   ├── Inheritance.java
+    │   ├── Polymorphism.java
+    │   ├── AbstractClasses.java
+    │   └── InnerInterfaces.java
+    ├── threads/                 # Multithreading examples
+    │   ├── SimpleThread.java
+    │   ├── Runnable.java
+    │   ├── ThreadSleep.java
+    │   ├── Synchronization.java
+    │   └── ThreadPool.java
+    ├── database/                # Future database interaction examples
+    │   ├── JDBCConnection.java
+    │   ├── InsertData.java
+    │   ├── ReadData.java
+    │   ├── PreparedStatement.java
+    │   ├── UpdateAndDelete.java
+    │   └── DatabaseUtils.java
+    └── Main.java                # Entry point to run demos
+README.md
+LICENSE
+  
 ```
 --- 
 
@@ -135,6 +166,7 @@ Contributions are welcome! If you'd like to add examples, improve the structure,
 Created by [Carlos](https://github.com/carlos0ff) – feel free to reach out!
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
