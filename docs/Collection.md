@@ -29,9 +29,8 @@ Este repositório tem como objetivo explorar a **Java Collection Framework**, um
 Abaixo está a representação gráfica da hierarquia das principais interfaces e classes da Collection Framework em Java:
 
 <p align="center">
-  <img src="collection-framework.png" alt="Hierarquia da Collection Framework em Java">
+  <img src="assets/image/collection-framework.png" alt="Hierarquia da Collection Framework em Java">
 </p>
-
 
 ---
 
