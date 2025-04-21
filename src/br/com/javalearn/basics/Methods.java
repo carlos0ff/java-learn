@@ -3,7 +3,12 @@ package br.com.javalearn.basics;
 /**
  * A classe {@code Methods} fornece métodos utilitários básicos,
  * como o cálculo do fatorial de um número inteiro.
+ * 
+ * @author Your Name
+ * @version 1.0
+ * @since 2023-11-20
  */
+
 public class Methods {
 
     /**

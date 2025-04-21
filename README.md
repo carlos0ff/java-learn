@@ -42,7 +42,7 @@ src/
     ├── collections/            # Collection framework examples (ArrayList, etc.)
     │   ├── ArrayList.java
     │   ├── HashMap.java
-    │   ├── LinkedList.java
+    │   ├── Tasks.java
     │   ├── Set.java
     │   ├── Iterator.java
     │   └── CollectionsUtility.java
