@@ -21,6 +21,62 @@ O objetivo é consolidar o aprendizado de tecnologias voltadas para o desenvolvi
 
 ---
 
+
+## 📁 Folder Overview
+
+- `basics/`: Java fundamentals like variables, operators, control flow.
+- `collections/`: Examples with Java collections (ArrayList, etc.).
+- `oop/`: Core object-oriented programming concepts.
+- `threads/`: Multithreading and concurrency.
+- `database/`: Future DB interaction examples.
+
+---
+
+## 📚 Project Structure
+
+```bash
+src/
+└── br/com/javalearn/
+    ├── basics/                # Java fundamentals (variables, methods, operators)
+    │   ├── HelloWorld.java
+    │   ├── ControlFlow.java
+    │   ├── VariablesAndDataTypes.java
+    │   ├── Operators.java
+    │   └── Methods.java
+    ├── collections/            # Collection framework examples (ArrayList, etc.)
+    │   ├── ArrayList.java
+    │   ├── HashMap.java
+    │   ├── LinkedList.java
+    │   ├── Set.java
+    │   ├── Iterator.java
+    │   └── CollectionsUtility.java
+    ├── oop/                    # Core OOP principles (inheritance, polymorphism, etc.)          
+    │   ├── Person.java
+    │   ├── Encapsulation.java
+    │   ├── Inheritance.java
+    │   ├── Polymorphism.java
+    │   ├── AbstractClasses.java
+    │   └── InnerInterfaces.java
+    ├── threads/                 # Multithreading examples
+    │   ├── SimpleThread.java
+    │   ├── Runnable.java
+    │   ├── ThreadSleep.java
+    │   ├── Synchronization.java
+    │   └── ThreadPool.java
+    ├── database/                # Future database interaction examples
+    │   ├── JDBCConnection.java
+    │   ├── InsertData.java
+    │   ├── ReadData.java
+    │   ├── PreparedStatement.java
+    │   ├── UpdateAndDelete.java
+    │   └── DatabaseUtils.java
+    └── Main.java                # Entry point to run demos
+README.md
+LICENSE
+  
+```
+--- 
+
 ## 🧠 Conteúdo
 
 ### ✅ Estrutura básica de um programa Java
