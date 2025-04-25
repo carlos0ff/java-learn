@@ -1,4 +1,4 @@
-package br.com.javalearn.basics;
+package br.com.javalearn.basics.Operators;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @version 1.0
  * @since 2023-11-20
  */
-public class Operators {
+public class OperatorLogicalOperatorss {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
