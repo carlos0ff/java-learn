@@ -32,7 +32,7 @@
 
 ```bash
 src/
-└── br/com/javalearn/
+└── br/com/learn/
     ├── basics/                # Java fundamentals (variables, methods, operators)
     │   ├── HelloWorld.java
     │   ├── ControlFlow.java
