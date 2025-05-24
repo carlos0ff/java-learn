@@ -31,42 +31,43 @@
 ## 📚 Project Structure
 
 ```bash
-src/
-└── br/com/learn/
-    ├── basics/                # Java fundamentals (variables, methods, operators)
-    │   ├── HelloWorld.java
-    │   ├── ControlFlow.java
-    │   ├── VariablesAndDataTypes.java
-    │   ├── Operators.java
-    │   └── Methods.java
-    ├── collections/            # Collection framework examples (ArrayList, etc.)
-    │   ├── ArrayList.java
-    │   ├── HashMap.java
-    │   ├── Tasks.java
-    │   ├── Set.java
-    │   ├── Iterator.java
-    │   └── CollectionsUtility.java
-    ├── oop/                    # Core OOP principles (inheritance, polymorphism, etc.)          
-    │   ├── Person.java
-    │   ├── Encapsulation.java
-    │   ├── Inheritance.java
-    │   ├── Polymorphism.java
-    │   ├── AbstractClasses.java
-    │   └── InnerInterfaces.java
-    ├── threads/                 # Multithreading examples
-    │   ├── SimpleThread.java
-    │   ├── Runnable.java
-    │   ├── ThreadSleep.java
-    │   ├── Synchronization.java
-    │   └── ThreadPool.java
-    ├── database/                # Future database interaction examples
-    │   ├── JDBCConnection.java
-    │   ├── InsertData.java
-    │   ├── ReadData.java
-    │   ├── PreparedStatement.java
-    │   ├── UpdateAndDelete.java
-    │   └── DatabaseUtils.java
-    └── Main.java                # Entry point to run demos
+java-learn/
+└── src/
+      └── br/com/learn/
+          ├── basics/                # Java fundamentals (variables, methods, operators)
+          │   ├── HelloWorld.java
+          │   ├── ControlFlow.java
+          │   ├── VariablesAndDataTypes.java
+          │   ├── Operators.java
+          │   └── Methods.java
+          ├── collections/            # Collection framework examples (ArrayList, etc.)
+          │   ├── ArrayList.java
+          │   ├── HashMap.java
+          │   ├── Tasks.java
+          │   ├── Set.java
+          │   ├── Iterator.java
+          │   └── CollectionsUtility.java
+          ├── oop/                    # Core OOP principles (inheritance, polymorphism, etc.)          
+          │   ├── Person.java
+          │   ├── Encapsulation.java
+          │   ├── Inheritance.java
+          │   ├── Polymorphism.java
+          │   ├── AbstractClasses.java
+          │   └── InnerInterfaces.java
+          ├── threads/                 # Multithreading examples
+          │   ├── SimpleThread.java
+          │   ├── Runnable.java
+          │   ├── ThreadSleep.java
+          │   ├── Synchronization.java
+          │   └── ThreadPool.java
+          ├── database/                # Future database interaction examples
+          │   ├── JDBCConnection.java
+          │   ├── InsertData.java
+          │   ├── ReadData.java
+          │   ├── PreparedStatement.java
+          │   ├── UpdateAndDelete.java
+          │   └── DatabaseUtils.java
+          └── Main.java                # Entry point to run demos
 README.md
 LICENSE
   
